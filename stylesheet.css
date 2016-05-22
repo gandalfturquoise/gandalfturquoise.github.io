@@ -11,8 +11,10 @@ table {
     float:center; font-family:"Candara";
 }
 
-#header {
-    background:"DarkTurquoise";
+div#header {
+    background:00CED1;
+    color:00CED1;
     width:100%;
     height:100px;
+    position:fixed;
 }
